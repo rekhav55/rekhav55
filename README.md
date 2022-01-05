@@ -1,4 +1,4 @@
-### Hi there 👋 I am Rekhav Das.
+### Hi there 👋 I am Rekhav Das. I am a Full Stack Developer
 ### ![](https://visitor-badge.laobi.icu/badge?page_id=rekhav55.rekhav55)
 
 ### ✉️ Find me on:
